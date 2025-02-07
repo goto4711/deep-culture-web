@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 't.blanke@uva.nl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,9 +69,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
+#  - Researchers
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tobias Blanke is  Professor of Artificial Intelligence and Humanities at the University of Amsterdam and the Institute for Logic, Language, and Computation. He is also affiliated with King’s College London as a Visiting Professor of Social and Cultural Informatics. His academic background is in computer science and political philosophy. Tobias’s principal research interests lie in artificial intelligence and big data devices for research, particularly in the human sciences. He has also published extensively on ethical questions of Artificial Intelligence such as predictive policing and algorithmic otherings, as well as critical digital practices, and the critique of digital platforms.
