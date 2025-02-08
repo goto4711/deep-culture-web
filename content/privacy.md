@@ -18,27 +18,24 @@ The website only uses essential cookies needed for security and maintenance purp
 
 We do not use any other tracking tools on the website. We also do not use any other third-party apps. 
 ​
-## Website hosting
+## Website hosting 
 
 The DEEP CULTURE site is hosted on the GitHub.
 
-​## Social media
- 
+## Social media
+
 DEEP CULTURE uses a social media accounts for information purposes. Personal data processed by social media platforms is subject to their terms and conditions. We invite you to consult their privacy policies.  
 
-​## Questions and contact information
- 
+## Questions and contact information
+
 If you contact via the Contact Form on the website, we will process your personal data in order to be able to get in touch with you. Your data will be deleted once we have provided you with the information requested or answered your query. 
 
-
-​
 ## Data controller and your rights
  
 The data controller for the DEEP CULTURE project is the University of Amsterdam. The legal basis for processing your personal data for research purposes under the General Data Protection Regulation is informed consent.  
 
 You have the right to access information held about you. Your right of access can be exercised in accordance with the General Data Protection Regulation. You also have other rights including rights of correction, erasure, objection, and data portability. Questions, comments and requests about your personal data can also be sent to the University of Amsterdam Data Protection Officer at fg@uva.nl.  
 
-​
 ## Changes and updates
  
 We may change the Privacy Policy in the future. We will maintain a record of changes and updates.  
