@@ -54,7 +54,7 @@ footer:
         text: ""
         # Logo filename in `assets/media/` folder
         filename: "deep-culture-img.jpg"
-    copyright:
+  copyright:
     notice: '© {year} Us. This work is licensed under {license}'
     license:
       enable: true
