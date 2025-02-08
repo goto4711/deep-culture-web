@@ -5,7 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
+  #- block: hero
     content:
       title: |
         Deep Culture - Living with Difference in the Age of Deep Learning
