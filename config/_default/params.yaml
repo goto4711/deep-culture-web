@@ -45,8 +45,14 @@ header:
 # Site footer
 
 footer:
+  block: minimal
+  logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "deep-culture-img.jpg"
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Us. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

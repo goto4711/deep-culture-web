@@ -6,10 +6,7 @@ menu: "main"
 weight: 10
 ---
 
-
-# Privacy Policy
-
-This policy explains what data may be processed when you visit the website and our social media channels.
+This policy explains what data may be processed when you visit the website and our social-media channels.
 
 ## What data we do (not) collect? 
 
