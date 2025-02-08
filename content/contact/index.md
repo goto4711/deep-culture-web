@@ -10,20 +10,20 @@ sections:
       title: Contact
       text: |-
         The Deep Culture project is based at the Institute for Logic, Language and Computation (https://www.illc.uva.nl/).
-        
+
         
       #email: test@example.org
       #phone: 888 888 88 88
       address:
-        street: Science Park 900; Room F2.06
+        street: Science Park 107; Room F2.06
         city: Amsterdam
         #region: CA
-        postcode: '1098 XH'
+        postcode: '1098 XG'
         country: Netherlands
         country_code: NL
-#      coordinates:
-#        latitude: '37.4275'
-#        longitude: '-122.1697'
+      coordinates:
+        latitude: '52.35573500377517' 
+        longitude: '4.9504281'
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      office_hours:
 #        - 'Monday 10:00 to 13:00'
