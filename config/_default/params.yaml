@@ -46,12 +46,15 @@ header:
 
 footer:
   block: minimal
-  logo:
-      # Logo text
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "deep-culture-img.jpg"
-  copyright:
+  navbar:
+    enable: false
+    show_logo: true
+    logo:
+        # Logo text
+        text: ""
+        # Logo filename in `assets/media/` folder
+        filename: "deep-culture-img.jpg"
+    copyright:
     notice: '© {year} Us. This work is licensed under {license}'
     license:
       enable: true
