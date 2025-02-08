@@ -47,7 +47,7 @@ header:
 footer:
   block: minimal
   navbar:
-    enable: false
+    enable: true
     show_logo: true
     logo:
         # Logo text
