@@ -3,7 +3,7 @@ title: "Privacy Policy"
 date: 2024-02-08
 type: "page"
 menu: "main"
-weight: 10
+weight: 50
 ---
 
 This policy explains what data may be processed when you visit the website and our social-media channels.
