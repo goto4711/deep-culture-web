@@ -20,12 +20,18 @@
             gap: 2rem;
             padding: 2rem;
             width: 100%;
-            max-width: 800px;
+            max-width: 1200px;
             margin: auto;
         }
         
-        .logo-erc {
+        .logo-empty {
             height: 150px;
+            width: 300px;
+            visibility: hidden;
+        }
+
+        .logo-erc {
+            height: 200px;
             width: auto;
         }
 
@@ -37,9 +43,9 @@
 </head>
 <body>
     <div class="logo-container">
-        <!-- Replace the placeholder URLs with your actual logo URLs -->
+        <img src="/api/placeholder/300/150" alt="" class="logo-empty">
         <img src="https://erc.europa.eu/sites/default/files/2023-06/LOGO_ERC-FLAG_FP.png" alt="ERC Logo" class="logo-erc">
-        <img src="https://www.uva.nl/binaries/_ht_1736926162716/1360x0-webp/content/gallery/subsites/extranet/huisstijl/compacte-logo.jpg" alt="University of Amsterdam Logo" class="logo-uva">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/University_of_Amsterdam_logo.svg" alt="University of Amsterdam Logo" class="logo-uva">
     </div>
 </body>
 </html>
