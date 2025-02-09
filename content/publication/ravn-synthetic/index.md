@@ -1,6 +1,6 @@
 ---
 title: 'The fabrication of synthetic data promises: Tracing emerging arenas of expectations
-  and boundary work1'
+  and boundary work'
 authors:
 - Louis Ravn
 date: '2025-01-01'
