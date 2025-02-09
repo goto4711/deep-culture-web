@@ -3,12 +3,12 @@ title: "Privacy Policy"
 date: 2024-02-08
 type: "page"
 menu: "main"
-weight: 50
+weight: 99
 ---
 
 This policy explains what data may be processed when you visit the website and our social-media channels.
 
-## What data we do (not) collect? 
+## What data do we (not) collect? 
 
 ​This site is created for information purposes. We do not collect any personal data from you for any purposes, unless you fill in the contact form on the website to get directly in touch with us. We also do not collect non-personal information and do not run any types of analytics on the website. Our interest is to inform you about the project and its findings, enable you to contact us and ensure the security of the website. 
 
