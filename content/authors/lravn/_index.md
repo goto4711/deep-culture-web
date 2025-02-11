@@ -8,7 +8,7 @@ last_name: Ravn
 
 # Username (this should match the folder name)
 #authors:
-  - lravn
+#  - lravn
 
 # Is this the primary user of the site?
 superuser: false
