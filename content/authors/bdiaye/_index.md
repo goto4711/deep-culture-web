@@ -26,11 +26,8 @@ bio: My research adresses how the combination of anthropology and digital humani
 
 interests:
   - Situational analysis of AI-as-polemic (stakeholders, discourses, shared 'myths')
-  - Vernacular implementations of generative AI in open source communities 
-  - Non-computational algorithmic cultures as a comparative lens to genAI"
-#  - Real-time Digital Archives
-#  - Critical Data/AI Studies
-#  - Science and Technology Studies
+  - Vernacular implementations of generative AI in open source communities
+  - Non-computational algorithmic cultures as a comparative lens to genAI
 
 #education:
 #  courses:
