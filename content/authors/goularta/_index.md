@@ -73,3 +73,7 @@ email: 'c.papadopoulou@uva.nl'
 user_groups:
   - PhD Students #Researchers
   #- Visitors
+
+---
+
+Bokar N’Diaye is a PhD Candidate on the Deep Culture project. Trained in comparative anthropology of religions and digital humanities at the university of Geneva (Switzerland), his primary interests lie in the combinations of these two methodologies to survey the context of emergence and adoption of generative ML models, as well as the understanding of AI as constituting just as much of a rhetorical (or even mythological) device as it does a state-of-of-art technology. In the application In the context of the Deep Culture, he will explore the mediation of human creativity through AI applications, as well as the way users navigate or rationalize the uncertainty tied to its outputs. He gave presentations in several conferences in the STS or DH field (NeurIPS, 4S, MASSHINE), and is published in Hertziana Studies in Art History.
