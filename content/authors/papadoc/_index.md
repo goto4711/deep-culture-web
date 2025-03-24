@@ -26,7 +26,7 @@ bio: Chloe is a PhD candidate in the Deep Culture project. Her research aims to 
 
 interests:
   - Historical archives
-  - Intersectional & Critical AI Studies
+  - Intersectional and Critical AI Studies
   - Computational Linguistics
 
 #education:
