@@ -4,7 +4,7 @@ title: Orsola M Borrini
 
 # Full name (for SEO)
 first_name: Orsola 
-last_name: Borrini 
+last_name: M Borrini 
 
 # Username (this should match the folder name)
 #authors:
@@ -71,7 +71,7 @@ email: 'o.m.borrini@uva.nl'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students #Researchers
+  - Postgraduate Students #Researchers
   #- Visitors
 
 ---
