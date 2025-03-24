@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Orsola M. Borrini is a PhD Candidate in the [HAICu](https://www.haicu.science/) project and works together with the PhD students in the Deep Culture project on historical archives. Her research explores the ethical considerations and practical limitations of Explainable Artificial Intelligence (XAI) applications in Cultural Heritage, with a focus on fostering transparency and accountability in the deployment of these technologies. With a background in (Digital) Humanities, she is a passionate advocate for interdisciplinary approaches. Beyond AI applications in Cultural Heritage, her interests include data-driven historical research, particularly addressing untold stories and contested historical heritage. In the context of Deep Culture, she will investigate the intersection of deep learning and historical archives, where the intricate dynamics between mainstream historiography, divergent narratives and new technologies come into focus.
+bio: Orsola M. Borrini is a PhD Candidate in the [HAICu](https://www.haicu.science/) project and works together with the PhD students in the Deep Culture project on historical archives. 
  
 Interests:
 - Cultural Analysis

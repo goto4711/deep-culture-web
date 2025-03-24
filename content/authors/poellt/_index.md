@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Bouzada Goulart
+title: Thomas Poell
 
 # Full name (for SEO)
-first_name: Alice Bouzada  
-last_name:  Goulart
+first_name: Thomas 
+last_name: Poell 
 
 # Username (this should match the folder name)
 #authors:
-#  - papadoc
+#  - lravn
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visiting Researcher
+role: Senior Researchers
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Alice Bouzada Goulart is a Research Master's student in Media Studies specializing in Cultural Data and AI at the University of Amsterdam. 
+bio: Thomas Poell is Professor of Data, Culture & Institutions at the University of Amsterdam. Leveraging social media data and digital methods, he has studied how the use of digital platforms is affecting the mobilization, organization, and communication of protest around the globe.
 
 Interests:
-- Critical data studies
-- Computational linguistics
-- Web preservation
- 
+- Artificial Intelligence
+- Platform Studies
+- Political Economy
 
 #education:
 #  courses:
@@ -49,7 +48,7 @@ Interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:alice.bouzada.goulart@student.uva.nl'
+    link: 'mailto:t.poell@uva.nl'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -66,14 +65,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'alice.bouzada.goulart@student.uva.nl'
+email: 't.poell@uva.nl'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Researchers
+  - PhD Students #Researchers
   #- Visitors
-
 ---
 
-Alice Bouzada Goulart is a research master's student in Media Studies specializing in cultural data and AI at the University of Amsterdam. With a background in literature and linguistics, her interests lie at the convergence of computational methods and critical media theory to examine cultural narratives and language patterns in digital spaces. She is currently contributing to a research project focused on digital archives, applying AI-driven analysis to historical web data.
+Thomas Poell is Professor of Data, Culture & Institutions at the University of Amsterdam. Leveraging social media data and digital methods, he has studied how the use of digital platforms is affecting the mobilization, organization, and communication of protest around the globe. In recent years, Thomas has examined how platforms and AI are reshaping the cultural industries around the globe. He  is the co-author of Platforms and Cultural Production (Polity, 2022) and The Platform Society (Oxford University Press, 2018).
+

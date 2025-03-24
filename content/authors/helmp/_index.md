@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Bouzada Goulart
+title: Paula Helm
 
 # Full name (for SEO)
-first_name: Alice Bouzada  
-last_name:  Goulart
+first_name: Paula 
+last_name: Helm
 
 # Username (this should match the folder name)
 #authors:
-#  - papadoc
+#  - lravn
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visiting Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Alice Bouzada Goulart is a Research Master's student in Media Studies specializing in Cultural Data and AI at the University of Amsterdam. 
+bio: Paula Helm is an Assistant Professor specializing in the fields of Critical AI Studies and Empirical Ethics. Originally trained in Anthropology and Peace and Conflict Research, her work today is situated at the intersection of STS, Media Studies and Empirical Technology Ethics. 
 
-Interests:
-- Critical data studies
-- Computational linguistics
-- Web preservation
- 
+interests:
+  - Situational analysis of AI
+  - Empirical Ethics
+  - Cultural Data and AI
 
 #education:
 #  courses:
@@ -49,7 +48,7 @@ Interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:alice.bouzada.goulart@student.uva.nl'
+    link: 'mailto:p.m.helm@uva.nl'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -66,14 +65,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'alice.bouzada.goulart@student.uva.nl'
+email: 'p.m.helm@uva.nl'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Researchers
+  - Senior Researchers #Researchers
   #- Visitors
-
 ---
 
-Alice Bouzada Goulart is a research master's student in Media Studies specializing in cultural data and AI at the University of Amsterdam. With a background in literature and linguistics, her interests lie at the convergence of computational methods and critical media theory to examine cultural narratives and language patterns in digital spaces. She is currently contributing to a research project focused on digital archives, applying AI-driven analysis to historical web data.
+Paula Helm is an Assistant Professor specializing in the fields of Critical AI Studies and Empirical Ethics. Originally trained in Anthropology and Peace and Conflict Research, her work today is situated at the intersection of STS, Media Studies and Empirical Technology Ethics. She is the scientific leader of the [Empirical Ethics Research Group](https://ias.uva.nl/themes/foundations-and-methods/empirical-ethics/empirical-ethics.html) at the Amsterdam Institute for Advanced Studies and the coordinator a new Media Studies MA-track on Cultural Data & AI, combining critical thinking with data science. The larger mission of Paula’s work is to move AI-Ethics from the PR- to the Engineering-, Infrastructural- and Development-Level.

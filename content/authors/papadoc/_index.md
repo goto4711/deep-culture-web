@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chloe is a PhD candidate in the Deep Culture project. Her research aims to investigate how deep-learning models impact public memory by shaping historical representations and categorizing identities, with a focus on feminist and minority-led narratives. Working primarily with historical archives, she is interested in applying explainability and archival analysis techniques to examine how AI models interact with historical records, towards the development of more context-sensitive, democratic and culturally grounded AI systems. She previously completed her Master's degree in Digital Humanities ans Digital Knowledge at the University of Bologna, where she engaged in interdisciplinary projects at the intersection of computer science and the humanities, across diverse subjects including clinical and computational linguistics, culture, history,  philosophy, social sciences and cinema. 
+bio: Chloe is a PhD candidate in the Deep Culture project. Her research aims to investigate how deep-learning models impact public memory by shaping historical representations and categorizing identities, with a focus on feminist and minority-led narratives.
 
 interests:
   - Historical archives
