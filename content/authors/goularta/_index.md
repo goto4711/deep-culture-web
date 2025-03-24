@@ -49,7 +49,7 @@ Interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:o.m.borrini@uva.nl'
+    link: 'mailto:alice.bouzada.goulart@student.uva.nl'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -66,14 +66,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'c.papadopoulou@uva.nl'
+email: 'alice.bouzada.goulart@student.uva.nl'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students #Researchers
+  - Visiting Researchers
   #- Visitors
 
 ---
 
-Bokar N’Diaye is a PhD Candidate on the Deep Culture project. Trained in comparative anthropology of religions and digital humanities at the university of Geneva (Switzerland), his primary interests lie in the combinations of these two methodologies to survey the context of emergence and adoption of generative ML models, as well as the understanding of AI as constituting just as much of a rhetorical (or even mythological) device as it does a state-of-of-art technology. In the application In the context of the Deep Culture, he will explore the mediation of human creativity through AI applications, as well as the way users navigate or rationalize the uncertainty tied to its outputs. He gave presentations in several conferences in the STS or DH field (NeurIPS, 4S, MASSHINE), and is published in Hertziana Studies in Art History.
+Alice Bouzada Goulart is a research master's student in Media Studies specializing in cultural data and AI at the University of Amsterdam. With a background in literature and linguistics, her interests lie at the convergence of computational methods and critical media theory to examine cultural narratives and language patterns in digital spaces. She is currently contributing to a research project focused on digital archives, applying AI-driven analysis to historical web data.
