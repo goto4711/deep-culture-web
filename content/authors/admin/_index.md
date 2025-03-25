@@ -10,7 +10,8 @@ last_name: Blanke
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence and Humanities
+role: Principal Investigator
+#Professor of Artificial Intelligence and Humanities
 
 # Organizations/Affiliations
 organizations:
