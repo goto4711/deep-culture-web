@@ -11,11 +11,11 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigator
-          - Senior Researchers
-          - Postgraduate Students
+         # - Principal Investigator
+         # - Senior Researchers
+         # - Postgraduate Students
          # - PhD Students
-          - Visiting Researchers
+         # - Visiting Researchers
          # - Researchers 
          # - Students
          # - Administration
