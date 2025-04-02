@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Thomas Poell
+title: Julia Noordegraaf
 
 # Full name (for SEO)
-first_name: Thomas 
-last_name: Poell 
+first_name: Julia
+last_name: Noordegraaf 
 
 # Username (this should match the folder name)
 #authors:
@@ -22,12 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Thomas Poell is Professor of Data, Culture & Institutions at the University of Amsterdam. Leveraging social media data and digital methods, he has studied how the use of digital platforms is affecting the mobilization, organization, and communication of protest around the globe.
+bio: Julia Noordegraaf is professor of Digital Heritage at the Faculty of Humanities, University of Amsterdam. She founded the research program and lab Creative Amsterdam that studies the history of urban creativity using digital data and methods.
 
 Interests:
-- Artificial Intelligence
-- Platform Studies
-- Political Economy
+- Cultural Artificial Intelligence
+- Digital Heritage
+- Digital History
 
 #education:
 #  courses:
@@ -48,7 +48,7 @@ Interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:t.poell@uva.nl'
+    link: 'mailto:J.J.Noordegraaf@uva.nl'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -75,5 +75,4 @@ user_groups:
   #- Visitors
 ---
 
-Thomas Poell is Professor of Data, Culture & Institutions at the University of Amsterdam. Leveraging social media data and digital methods, he has studied how the use of digital platforms is affecting the mobilization, organization, and communication of protest around the globe. In recent years, Thomas has examined how platforms and AI are reshaping the cultural industries around the globe. He  is the co-author of Platforms and Cultural Production (Polity, 2022) and The Platform Society (Oxford University Press, 2018).
-
+Julia Noordegraaf is professor of Digital Heritage at the Faculty of Humanities, University of Amsterdam. She founded the research program and lab Creative Amsterdam that studies the history of urban creativity using digital data and methods. Her research focuses on the reuse of digital cultural heritage for historical research, exploring the epistemological and methodological implications of using digital sources and methods. In the context of the [European Time Machine project](https://www.timemachine.eu/), she coordinates the realization of the [Amsterdam Time Machine](https://www.amsterdamtimemachine.nl/): a 'Digital Twin' for location-based, personalized access to historical information on the city.
