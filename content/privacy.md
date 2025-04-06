@@ -14,7 +14,7 @@ This policy explains what data may be processed when you visit the website and o
 
 ## Cookies
 
-The website only uses essential cookies needed for security and maintenance purposes. These cookies are necessary for the website to function and cannot be switched off. You can set your browser to block or alert you to these cookies, but some part of the website might then not work. These cookies do not store any personal information. 
+The website only uses essential cookies needed for security and maintenance purposes. These cookies are necessary for the website to function and cannot be switched off. You can set your browser to block or alert you to these cookies, but some parts of the website might then not work. These cookies do not store any personal information. 
 
 We do not use any other tracking tools on the website. We also do not use any other third-party apps. 
 ​
