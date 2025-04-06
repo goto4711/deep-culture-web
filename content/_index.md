@@ -14,7 +14,7 @@ sections:
         filename: front-page.png
       text: |
         <br>
-        Deep Culture is a five-year Advanced Grant funded by the European Research Council. The project is interested in the relations of deep learning technologies with cultures. The project coins the term ‘deep culture’ to describe the global transformations that deep learning has wrought on culture and how culture is in turn key to deep learning. Neither overly enthusiastic nor despairing about the new deep culture, the project proposes reshaping our relationships with it to address the complexities of cultures and values of difference. 
+        Deep Culture is a five-year Advanced Grant funded by the European Research Council. The project is interested in the relations of deep-learning technologies with cultures. The project coins the term ‘deep culture’ to describe the global transformations that deep learning has wrought on culture and how culture is in turn key to deep learning. Neither overly enthusiastic nor despairing about the new deep culture, the project proposes reshaping our relationships with it to address the complexities of cultures and values of difference. 
   
   #- block: collection
   #  content:
